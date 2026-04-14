@@ -1,8 +1,11 @@
 # Mathematics-Machine-Learning
-Final individual project for the class "Mathematics in Machine Learning", from the MSc in Data Science and Engineering at Politecnico di Torino.
+This repository contains the final individual project for the course Mathematics in Machine Learning, part of the MSc in Data Science and Engineering at Politecnico di Torino.
 
-The project has two components:<br>
-1- A Jupyter notebook with the exploration and pre-processing of a dataset and the application of some ML models for binary classification task<br>
-2- A theoretical essay focused on the mathematical principles behind the code used in the previous point
+The project presents a complete machine learning workflow, combining practical implementation with a rigorous treatment of the underlying mathematical assumptions. It covers data exploration and preprocessing, model development for a binary classification task, and a comparative analysis of different approaches.
 
+Key components:
 
+Jupyter Notebook – Implements the full workflow: data preparation, model training, evaluation, and comparative analysis across different models.
+Theoretical Report – Formalizes the mathematical foundations of the methods used, with a focus on assumptions, derivations, and their implications in practice.
+
+The goal of this project is to combine rigorous mathematical reasoning with practical implementation, highlighting not only how models perform, but why they work and under which conditions they are reliable.
